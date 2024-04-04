@@ -16,7 +16,7 @@ var respecConfig = {
   github: "https://github.com/Logius-standaarden/Logius-Beheermodel",
   nl_markdownCodeClass: "code",
   nl_markdownTableClass: "dkkvs",
-  pubDomain: "logius",
+  pubDomain: "osdbk",
   publishDate: "2023-09-23",
   publishVersion: "0.1",
   shortName: "beheermodel",
