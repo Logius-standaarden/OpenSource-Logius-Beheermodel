@@ -1,55 +1,30 @@
 # Strategie
 
 De strategische activiteiten van BOMOS bestaan uit de onderdelen
-Visie, Govenance en Financiering. Deze onderdelen en hun toepassing op
+Governance, Visie en Financiering. Deze onderdelen en hun toepassing op
 het beheer van _xxxx_ worden hieronder beschreven.
 
-## Visie
-
-Met de xxx standaard wil de Nederlandse overheid interoperabiliteit
-bevorderen. Dit komt erop neer dat overheden dezelfde standaard in
-vergelijkbare situaties toepassen. Dit maakt uiteindelijk dat
-componenten en systemen onderling effectief gegevens uit kunnen
-wisselen. Zowel horizontaal in één voorziening binnen één situatie als
-verticaal tussen voorzieningen in verschillende situaties en tussen
-organisaties. Deze doelstelling wordt onderschreven door een breed
-scala aan partijen die deelnemen aan het xxx Kennisplatform, waar de
-ontwikkeling van de standaard zijn oorsprong heeft, en is bestendigd
-door Forum
-
-Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid
-(OBDO), die xxxx standaard hebben opgenomen op de zogenaamde ‘pas toe
-of leg uit’-lijst met andere standaarden die interoperabiliteit
-bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
-
-De toetsingsprocedure voor opname van een standaard op _pas toe of leg
-uit_ lijst bestaat uit de volgende
-
-stappen:
-
-1. Aanmelding
-2. Intake
-3. Expertonderzoek
-4. Openbare consultatie
-5. Advisering door het Forum Standaardisatie
-6. Vaststelling door het Overheidsbreed Beleidsoverleg Digitale Overheid
-
-Deze criteria staan op: [Toetsingsprocedure en criteria voor lijsten met open standaarden (forumstandaardisatie.nl)](https://www.forumstandaardisatie.nl/sites/default/files/BFS/3-lijsten/standaarden-aanmelden/toetsen/Toetsingsprocedure-en-criteria-22_0.pdf)
-
 ## Governance
-Bij het beheer van een open standaard hoort een open governance en een
+
+Bij het open beheer van source code hoort een open governance en een
 open procedure voor belanghebbenden om te kunnen participeren in het
 beheer. Logius neemt hierin de rol van onafhankelijke, duurzame
 beheerpartij en facilitator. Logius gaat uit van de governance van de
 Generieke Digitale Infrastructuur (GDI). De GDI geeft richting aan het 
 Meerjarenprogramma Infrastructuur Digitale Overheid (MIDO). Voor MIDO
 is een governance opgesteld waarin de stakeholders van Logius richting
-geven aan de ontwikkelingen bij Logius. Standaardenbeheer sluit aan op
-deze governance.
+geven aan de ontwikkelingen bij Logius. Het beheer van open source code 
+sluit aan op deze governance.
 
 ![MIDO governance](images/MIDOgovernance.png "MIDO governance")
 
 De MIDO governance kent vier _programmeringstafels_ op de thema's _Gegevensuitwisseling_, _Infrastructuur_, _Interactie_ en _Toegang_. Op de tafels wordt de ontwikkeling en prioritering van de door Logius beheerde stelsels, standaarden en diensten besproken met de stakeholders.
+
+## Visie
+
+Door code ontwikkeld voor de overheid beschikbaar te maken en open
+te ontwikkelen draagt Logis bij aan de principes voor open overheid en 
+wordt interoperabilieit bevorderd. 
 
 ### Governancestructuur
 
