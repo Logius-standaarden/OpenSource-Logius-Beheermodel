@@ -2,7 +2,7 @@
 
 De strategische activiteiten van BOMOS bestaan uit de onderdelen
 Governance, Visie en Financiering. Deze onderdelen en hun toepassing op
-het beheer van _xxxx_ worden hieronder beschreven.
+het beheer van open source code bij Logius worden hieronder beschreven.
 
 ## Governance
 
@@ -167,9 +167,12 @@ Logius de aanvraag.
 
 ## Financiering
 
-Het beheer van de xxx standaard wordt gefinancierd door min. BZK voor
-een initiële periode van tenminste drie jaar (2020-2023) om gebruikers
-het vertrouwen te geven dat er geen desinvesteringen worden gedaan bij
-het implementeren van de standaard. Na drie jaar wordt de financiering
-verlengd als blijkt dat het nut van en de behoefte aan de standaard
-nog aanwezig is.
+Het beheer van de code wordt betaald vanuit de beheer en onderhoudskosten 
+(B&E) die BZK aan Logius betaald. Hiermee wordt het regulier beheer en kleine wijzigingen en correcties op de applicatie uitgevoerd. 
+
+Voor het uitvoeren van grote wijzigingen op de appliactie is het B&E budget 
+niet bedoeld. Grote wijzgingen kunnen projectmatig worden aangepakt.
+
+<aside class="example" title="Voorbeeld van een grote wijziging">
+ebMS2 naar ebMS/AS4 als voorbeeld?
+</aside>

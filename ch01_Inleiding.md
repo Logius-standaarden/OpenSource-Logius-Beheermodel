@@ -18,13 +18,10 @@ TODO Beschrijf hier de OSDBK applicatie kort
 
 ### Toepassing
 
-Beschrijf hier de nut van de standaard
+_Beschrijf hier toepassing en nut_
 
 <aside class="example">
-De overheid ontsluit gegevens en applicaties steeds vaker met
-standaarden. Voorbeelden hiervan zijn te zien op de website
-developer.overheid.nl, in Common Ground, Haal Centraal en het Digitaal
-Stelsel Omgevingswet.
+Een voorbeeld van de toepassing van OSDBK.
 </aside>
 
 ### Werking
@@ -45,5 +42,7 @@ Het activiteitendiagram toont welke lagen het model onderscheidt en welke activi
 activiteiten worden hierna elk in een hoofdstuk besproken.
 
 ![BOMOS activiteitendiagram](images/bomos_activiteiten.png "BOMOS activiteitendiagram")
+
+Niet alle ondersteunende activiteiten zijn van toepassing op het beheer van open source code. Deze activiteiten zijn immers bedoeld om het open beheer van _standaarden_ in te vullen. IN de volgende hoofdstukken worden wel alle activiteiten benoemd en uitgewerkt indien van relevant voor open source. 
 
 Voor meer details of BOMOS verwijzen we naar de documentatie: [BOMOS, het fundament](https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/) en [BOMOS, de verdieping](https://gitdocumentatie.logius.nl/publicatie/bomos/verdieping/)
