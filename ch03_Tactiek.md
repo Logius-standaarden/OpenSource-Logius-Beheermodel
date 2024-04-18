@@ -42,8 +42,6 @@ die is opgenomen op de _pas toe of leg uit_ lijst van het Forum Standaardisatie.
 
 ## Kwaliteitsbeleid en benchmarking
 
-Zoals gezegd wordt het beheer van de xxx standaard volledig open
-ingevuld (zie ook de paragraaf <span class="underline">Bomos</span> en
-<span class="underline">Governance</span>) Dit borgt dat zoveel
-mogelijk belangstellenden en belanghebbenden betrokken zijn bij
-wijzigingen en besluitvorming die wijzigingen.
+### Acceptatie van voorgestelde wijzigingen
+
+### Compliance

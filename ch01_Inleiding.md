@@ -32,7 +32,7 @@ _Beschrijf hier de werking_
 
 _Beschrijf hier de status_
 
-<aside class="example">
+<aside class="example" title="Status van de OSDBK code">
 Bijvoorbeeld
 </aside>
 
