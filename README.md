@@ -1,6 +1,6 @@
 # Beheermodel voor OSDBK open source code
 
-Dit beheermodel beschrijft de beheeractiviteiten voor de sourcecode van de OSDBK module. 
+Dit beheermodel beschrijft de beheeractiviteiten voor sourcecode bij Logius. 
 De basis is het [Logius standaarden beheermodel](https://github.com/Logius-standaarden/Logius-beheermodel). 
 Het is aangevuld met een aantal standaard bijlagen die vooral het operationele proces beschrijven (Respec, Github, SEMVER).
 
