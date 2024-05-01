@@ -37,7 +37,7 @@ Open source code wordt beschikbaar gemaakt onder een xxx licentie.
 
 ## Adoptie en erkenning
 
-De OSDBK standaard implementeert de Digikoppeling standaard. Dit is een standaard 
+De ... applicatie implementeert de Digikoppeling standaard. Dit is een standaard 
 die is opgenomen op de _pas toe of leg uit_ lijst van het Forum Standaardisatie. 
 
 ## Kwaliteitsbeleid en benchmarking

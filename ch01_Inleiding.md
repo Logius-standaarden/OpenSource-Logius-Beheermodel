@@ -21,7 +21,7 @@ TODO Beschrijf hier de OSDBK applicatie kort
 _Beschrijf hier toepassing en nut_
 
 <aside class="example">
-Een voorbeeld van de toepassing van OSDBK.
+Een voorbeeld van de toepassing van een voorbeeld open source applicatie.
 </aside>
 
 ### Werking
@@ -32,7 +32,7 @@ _Beschrijf hier de werking_
 
 _Beschrijf hier de status_
 
-<aside class="example" title="Status van de OSDBK code">
+<aside class="example" title="Status van de ... code">
 Bijvoorbeeld
 </aside>
 
